@@ -1,2 +1,5 @@
-# ComposerPackageTemplate
-A simple template for creating a Composer package
+Install package
+
+```shell
+composer require lexxyit/composer-package-template
+```

@@ -1,0 +1,18 @@
+{
+    "name": "lexxyit/composer-package-template",
+    "description": "A simple template for creating a Composer package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lexxyit\\ComposerPackageTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LeXxyIT",
+            "email": "lexxywy@gmail.com"
+        }
+    ],
+    "require": {}
+}
