@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-class Test
+class GetDate
 {
     public function __construct()
     {
-        echo __METHOD__ . PHP_EOL;
+        echo date('d.m.Y H:i:s') . PHP_EOL;
     }
 }
